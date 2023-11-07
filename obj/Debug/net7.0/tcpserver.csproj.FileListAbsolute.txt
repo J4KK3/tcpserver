@@ -1,0 +1,14 @@
+C:\Users\kalle\tcpserver\bin\Debug\net7.0\tcpserver.exe
+C:\Users\kalle\tcpserver\bin\Debug\net7.0\tcpserver.deps.json
+C:\Users\kalle\tcpserver\bin\Debug\net7.0\tcpserver.runtimeconfig.json
+C:\Users\kalle\tcpserver\bin\Debug\net7.0\tcpserver.dll
+C:\Users\kalle\tcpserver\bin\Debug\net7.0\tcpserver.pdb
+C:\Users\kalle\tcpserver\obj\Debug\net7.0\tcpserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalle\tcpserver\obj\Debug\net7.0\tcpserver.AssemblyInfoInputs.cache
+C:\Users\kalle\tcpserver\obj\Debug\net7.0\tcpserver.AssemblyInfo.cs
+C:\Users\kalle\tcpserver\obj\Debug\net7.0\tcpserver.csproj.CoreCompileInputs.cache
+C:\Users\kalle\tcpserver\obj\Debug\net7.0\tcpserver.dll
+C:\Users\kalle\tcpserver\obj\Debug\net7.0\refint\tcpserver.dll
+C:\Users\kalle\tcpserver\obj\Debug\net7.0\tcpserver.pdb
+C:\Users\kalle\tcpserver\obj\Debug\net7.0\tcpserver.genruntimeconfig.cache
+C:\Users\kalle\tcpserver\obj\Debug\net7.0\ref\tcpserver.dll
